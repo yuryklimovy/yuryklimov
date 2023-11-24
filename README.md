@@ -1,4 +1,5 @@
-#Iurii KLymov
+Iurii KLymov
+
 CHI Software
 System Administration Specialist 
 листопад 2018 р. – дотепер 
